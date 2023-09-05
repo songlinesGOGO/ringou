@@ -1,0 +1,2 @@
+# ringou
+Shopify theme development
